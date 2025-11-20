@@ -1,51 +1,55 @@
-🚀 Hi, I'm Ajit — Full-Stack Developer
+<!-- =========================  HEADER BANNER  ========================= -->
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,mysql,git" />
+<p align="center">
+  <img src="https://i.ibb.co/2cMk2dR/modern-banner.png" width="100%" alt="banner" />
+</p>
 
+<h1 align="center">👋 Hi, I'm <span style="color:#4f46e5;">Ajit Yadav</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | React | Node.js | JavaScript </h3>
 
-I’m a passionate Full-Stack Developer who loves building modern, scalable, and user-friendly web applications.
-I work with technologies like React, Node.js, Express, MongoDB, MySQL, HTML, CSS, and JavaScript to deliver clean and efficient solutions.
+<br/>
 
-🧩 About Me
+<!-- =========================  QUICK BADGES  ========================= -->
 
-💻 Full-Stack Web Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=for-the-badge" />
+</p>
 
-⚡ Love creating clean UI, robust backend APIs & scalable systems
+<br/>
 
-🤖 Exploring AI integrations & automation
+<!-- =========================  ABOUT ME  ========================= -->
 
-🌱 Currently deepening knowledge in backend optimization & cloud
+## 🧑‍💻 **About Me**
 
-🚀 Building real-world full-stack projects for my portfolio
+🌟 Passionate **Full-Stack Developer** building clean, modern & scalable applications.  
+💡 I love creating beautiful UI, powerful APIs and seamless user experiences.  
+⚡ Exploring AI, automation & cloud technologies.  
+🎯 Mission: Build impactful products used by real people.
 
+---
 
-🛠️ Tech Stack
-Frontend
+<!-- =========================  TECH STACK  ========================= -->
 
-HTML5 • CSS3 • Tailwind CSS • JavaScript • React.js
+## 🛠️ **Tech Stack**
 
-Backend
+<div align="center">
+  
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 
-Node.js • Express.js
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-Database
+### **Database**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-MongoDB • MySQL
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 
-Tools
+</div>
 
-Git • GitHub • Postman • VS Code
-<!--
-**yajit289/yajit289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===================
